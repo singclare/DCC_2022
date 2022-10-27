@@ -1,2 +1,2 @@
-# DataAnalysis
-Statistical Linear Model
+# DCC_2022
+Data Create Contest
